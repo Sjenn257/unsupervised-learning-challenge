@@ -4,7 +4,7 @@ In this challenge, I used unsupervised learning to classify a dataset of cryptoc
 
 ### Data Preparation
 
-The dataset came from CryptoCompare (https://min-api.cryptocompare.com/data/all/coinlist)
+The dataset came from <a href ="https://min-api.cryptocompare.com/data/all/coinlist">CryptoCompare</a>.
 
 The columns contained:
   - CoinName
