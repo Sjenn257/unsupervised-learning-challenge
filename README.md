@@ -30,6 +30,6 @@ I used PCA for dimensionality reduction since the get_dummies function turned th
 <b>Tip:</b>There are currently 532 coins on the trading market. Based on our analysis using machine learning techniques, the Advisory Services Team recommends the cryptocurrencies be grouped together into 5 classes.
 </div>
 
-<img src=“clusters.png” alt=“Classes” title=“5 Classes” />
+![image](clusters.png)
 
 
